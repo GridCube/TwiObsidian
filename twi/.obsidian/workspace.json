@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "3085fdca57e35da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01ed4be091f89cc",
+        "type": "split",
+        "children": [
+          {
+            "id": "34765908cb132300",
+            "type": "tabs",
+            "dimension": 17.2879177377892,
+            "children": [
+              {
+                "id": "d24eb779176d3661",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Saliss Oliwing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "11919b17f23130b7"
+              }
+            ]
+          },
+          {
+            "id": "74d155538b3fc1ca",
+            "type": "split",
+            "dimension": 82.7120822622108,
+            "children": [
+              {
+                "id": "450a906a058f2727",
+                "type": "tabs",
+                "dimension": 77.01149425287356,
+                "children": [
+                  {
+                    "id": "0d075c473d09dc0b",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "11fb02ed073de40a",
+                "type": "tabs",
+                "dimension": 22.988505747126435,
+                "children": [
+                  {
+                    "id": "1e0ef83c7519624a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Characters/Saliss Oliwing.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": -1,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.535979654890192,
+                          "close": true
+                        }
+                      }
+                    },
+                    "group": "11919b17f23130b7"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "596cfb0b8727d631",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b67c5105b576a2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd0543baa067987",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69ad5b36c3d3b556",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a99f8a5af738fab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a68ba82db4efac23",
+    "type": "split",
+    "children": [
+      {
+        "id": "258b971d28351816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1889c40ca8f80f84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c99040cc79ee663",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d514924e7cbb955a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95ec6e2346426b5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7f300b1a21a03e8",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "0d075c473d09dc0b",
+  "lastOpenFiles": [
+    "Characters/Saliss Oliwing.md",
+    "Characters/Mirn.md",
+    "Characters/Rags.md",
+    "Characters/Erin Solstice.md",
+    "Classes/Blademaster.md",
+    "Characters/Idis.md",
+    "Characters/Chise.md",
+    "Organization/Order of Seasons Belavierr Hunt Taskforce.md",
+    "Characters/Felkhr.md",
+    "Characters/Chaita.md",
+    "Characters/Garia Strongheart.md",
+    "Characters/Ceria Springwalker.md",
+    "Characters/Ryoka Griffin.md",
+    "Classes/Apprentice Mage.md",
+    "Characters/Seve-Alrelious.md",
+    "Characters/Thien.md",
+    "Species/Human/Flesh Chosen.md",
+    "Characters/Alked Fellbow.md",
+    "Species/String People/Hemp.md",
+    "Species/String People",
+    "Characters/Yesel.md",
+    "Characters/Second Mind.md",
+    "Characters/First Mind.md",
+    "Characters/Ressk.md",
+    "Characters/Goblin Chieftain.md",
+    "Characters/Prost.md",
+    "Characters/Tefret.md",
+    "Species/Human",
+    "Character",
+    "Organiztion",
+    "Pasted image 20230224154924.png",
+    "Untitled.canvas"
+  ]
+}

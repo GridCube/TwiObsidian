@@ -1,0 +1,26 @@
+Species: [[Antinium]]
+
+Class: [[Acolyte]]
+Class: [[Priest]]
+Class: [[Doomspeaker Priest]]
+Class: [[Priest of Wrath and Sky]]
+Class: [[Butcher]]
+Class: [[Carpenter]]
+Class: [[Tactician]]
+
+Location: [[Liscor]]
+Location: [[Hive of the Free Antinium]]
+
+Affiliation: [[Erin Solstice]]
+Affiliation: [[Lyonette du Marquin]]
+Affiliation: [[Klbkch]]
+Affiliation: [[Anand]]
+Affiliation: [[Belgrade]]
+Affiliation: [[Garry]]
+Affiliation: [[Xrn]]
+Affiliation: [[Olesm Swifttail]]
+Affiliation: [[Yellow Splatters]]
+
+Organization: [[Free Hive]]
+Organization: [[Wandering Inn Friends]]
+Organization: [[Solstice Crusade]]

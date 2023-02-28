@@ -1,0 +1,6 @@
+[[Liscor]]
+
+```dataview
+LIST
+FROM [[]]
+```
